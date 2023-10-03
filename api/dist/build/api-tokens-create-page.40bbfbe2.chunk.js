@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstrapi_vercel_test=self.webpackChunkstrapi_vercel_test||[]).push([[4299],{1880:(l,e,t)=>{t.r(e),t.d(e,{default:()=>P});var s=t(67294),_=t(18638),E=t(86706),n=t(36364),r=t(92458);const P=()=>{const a=(0,E.v9)(n._);return s.createElement(_.O4,{permissions:a.settings["api-tokens"].create},s.createElement(r.Z,null))}}}]);
